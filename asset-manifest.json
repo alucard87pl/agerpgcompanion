@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/agerpgcompanion/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/agerpgcompanion/static/js/main.31497f59.chunk.js",
+    "main.js.map": "/agerpgcompanion/static/js/main.31497f59.chunk.js.map",
+    "runtime-main.js": "/agerpgcompanion/static/js/runtime-main.30355f3e.js",
+    "runtime-main.js.map": "/agerpgcompanion/static/js/runtime-main.30355f3e.js.map",
+    "static/js/2.729ba114.chunk.js": "/agerpgcompanion/static/js/2.729ba114.chunk.js",
+    "static/js/2.729ba114.chunk.js.map": "/agerpgcompanion/static/js/2.729ba114.chunk.js.map",
+    "index.html": "/agerpgcompanion/index.html",
+    "precache-manifest.bdd1811bc9f721a96e79699d9bb6cda9.js": "/agerpgcompanion/precache-manifest.bdd1811bc9f721a96e79699d9bb6cda9.js",
+    "service-worker.js": "/agerpgcompanion/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/agerpgcompanion/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.729ba114.chunk.js.LICENSE": "/agerpgcompanion/static/js/2.729ba114.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30355f3e.js",
+    "static/js/2.729ba114.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.31497f59.chunk.js"
+  ]
+}
