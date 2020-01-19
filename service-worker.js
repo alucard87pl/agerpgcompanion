@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/agerpgcompanion/precache-manifest.bdd1811bc9f721a96e79699d9bb6cda9.js"
+  "/agerpgcompanion/precache-manifest.35311094ad70240ed46f2cbbaa69c862.js"
 );
 
 self.addEventListener('message', (event) => {
