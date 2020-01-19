@@ -1,11 +1,9 @@
-import React from 'react';
+import React, { Component } from 'react';
 
-function App() {
-	return (
-		<div>
-			<p>github.io initial test</p>
-		</div>
-	);
+export class App extends Component {
+	render() {
+		return <div>test</div>;
+	}
 }
 
 export default App;
